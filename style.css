@@ -1,0 +1,21 @@
+.form {
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+input[type="submit"] {
+	padding: 5px;
+	margin-top: 10px;
+}
+
+.titulo-site {
+	text-align: center;	
+}
+
+.titulo-usuarios {
+	text-align: center;
+}
+
+.table {
+	
+}
